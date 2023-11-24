@@ -9,8 +9,6 @@ drillTime: 400
 tier: 3
 size: 2
 
-consumes: {
-    liquid: water/0.1
-}
+hasLiquids: true
 
 requirements: [titanium/80, lead/30]
