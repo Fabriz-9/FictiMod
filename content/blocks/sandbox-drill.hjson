@@ -1,0 +1,11 @@
+type: drill
+name: sandbox drill
+description: test
+category: production
+
+health: 2500
+drillTime: 1
+tier: 300
+size: 1
+
+requirements: [copper/99999999]
