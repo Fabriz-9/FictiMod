@@ -3,9 +3,10 @@ name: sandbox drill
 description: test
 category: production
 
-health: 2500
 drillTime: 1
-tier: 300
-size: 1
+tier: 4
+mineHardnessScaling: false
 
-requirements: [copper/99999999]
+health: 2500
+hasLiquids: true
+size: 1
