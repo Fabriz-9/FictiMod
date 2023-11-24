@@ -1,0 +1,11 @@
+type: drill
+name: Titanium Drill
+description: nick descuido venga la alegria sin miedo al ban
+category: production
+
+health: 2500
+drillTime: 400
+tier: 3
+size: 2
+
+requirements: [titanium/80, lead/30]
