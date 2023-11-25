@@ -1,6 +1,6 @@
 type: drill
 name: Titanium Drill
-description: nick descuido venga la alegria sin miedo al ban
+description: A faster pneumatic drill
 category: production
 
 health: 2500
@@ -10,5 +10,12 @@ tier: 3
 size: 2
 
 hasLiquids: true
+consumes: {
+    liquids: [
+        liquid: water,
+        amount: 1,
+        optional: true
+    ]
+}
 
 requirements: [titanium/80, lead/30]

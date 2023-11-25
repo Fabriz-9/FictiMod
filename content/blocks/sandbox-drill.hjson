@@ -3,10 +3,9 @@ name: sandbox drill
 description: test
 category: production
 
-drillTime: 1
+health: 2500
+size: 1
+
+drillTime: 10
 tier: 4
 mineHardnessScaling: false
-
-health: 2500
-hasLiquids: true
-size: 1
