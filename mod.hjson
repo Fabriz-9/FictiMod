@@ -1,6 +1,6 @@
 name: FictiMod
-displayName: Ficti Mod
+displayName: Ficti's Mod
 author: Ficti
-description: woa
-version: "0.0"
+description: Fixed version
+version: "0.1"
 minGameVersion: "136"
